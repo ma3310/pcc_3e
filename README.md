@@ -11,3 +11,11 @@ If you have any questions about Python Crash Course, feel free to get in touch:
 Email: ehmatthes@gmail.com
 
 Twitter: [@ehmatthes](http://twitter.com/ehmatthes/)
+
+```shell
+# Initial virtual python environment for programs in this folder.
+python3 -m venv .venv
+source .venv/bin/activate
+pip install --upgrade pip
+pip install jupyter
+```
