@@ -1,5 +1,2 @@
-message = "Hello, world!"
-print(message)
-
-message = "Hello, again!"
-print(message)
+# Zen of Python - Wasting time
+import this
